@@ -3,14 +3,14 @@
 GTFS_DIR="${1?' Usage: load-gtfs <path-to-extracted-gtfs>'}"
 SHEETS=(
     agency
+    feed_info
     calendar
     calendar_dates
-    feed_info
     routes
-    shapes
-    stop_times
     stops
     trips
+    shapes
+    stop_times
 )
 
 # check input
