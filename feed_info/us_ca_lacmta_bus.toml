@@ -1,0 +1,5 @@
+feed_contact_url = "https://developer.metro.net"
+feed_id = "us_ca_lacmta_bus"
+feed_lang = "en"
+feed_publisher_name = "Los Angeles County Metropolitan Transportation Authority"
+feed_publisher_url = "https://www.metro.net"
