@@ -1,0 +1,5 @@
+route_desc = "EAST LA-CITY TERRACE-CAL STATE LA TRANSIT CENTER"
+route_id = "665-13157"
+route_long_name = "Metro Local Line"
+route_short_name = "665"
+route_type = "3"

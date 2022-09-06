@@ -1,0 +1,5 @@
+route_desc = "This Express Service operates on the dates of all Dodger home games, departing from Harbor Gateway Transit Center Bay #9 and running up the Harbor Transitway to Dodger Stadium, beginning 2 Hours before game time and continuing until 45 minutes after the game ends. This is a free service to anyone with a ticket to the game."
+route_id = "DSE-HG"
+route_short_name = "South Bay Dodger Stadium Express"
+route_type = "3"
+route_url = "http://www.metro.net/riding/dodger-stadium-express/"

@@ -1,0 +1,7 @@
+route_color = "000000"
+route_desc = "SANTA MONICA-DOWNTOWN LA VIA WILSHIRE BLVD"
+route_id = "720-13157"
+route_long_name = "Metro Rapid Line"
+route_short_name = "720"
+route_text_color = "FFFFFF"
+route_type = "3"

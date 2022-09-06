@@ -1,0 +1,5 @@
+route_desc = "WARNER CENTER CIRCULATOR"
+route_id = "601-13157"
+route_long_name = "Metro Local Line"
+route_short_name = "601"
+route_type = "3"

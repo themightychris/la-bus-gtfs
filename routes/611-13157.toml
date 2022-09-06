@@ -1,0 +1,5 @@
+route_desc = "HUNTINGTON PARK  SHUTTLE"
+route_id = "611-13157"
+route_long_name = "Metro Local Line"
+route_short_name = "611"
+route_type = "3"

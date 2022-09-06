@@ -1,0 +1,5 @@
+route_desc = "ALTADENA-PASADENA VIA LAKE - LOS ROBLES - LINCOLN"
+route_id = "662-13157"
+route_long_name = "Metro Local Line"
+route_short_name = "662"
+route_type = "3"

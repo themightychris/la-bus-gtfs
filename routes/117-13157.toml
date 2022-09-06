@@ -1,0 +1,5 @@
+route_desc = "LAX CTY BUS CTR-DOWNEY VIA CENTURY BL-IMPERIAL HWY"
+route_id = "117-13157"
+route_long_name = "Metro Local Line"
+route_short_name = "117"
+route_type = "3"

@@ -1,0 +1,5 @@
+route_desc = "EL SEGUNDO - NORWALK STATION VIA ROSECRANS AV"
+route_id = "125-13157"
+route_long_name = "Metro Local Line"
+route_short_name = "125"
+route_type = "3"

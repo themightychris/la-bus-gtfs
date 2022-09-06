@@ -1,0 +1,5 @@
+route_desc = "LAX CTY BUS CTR - S GATE VIA LA TIJERA-EXPOSITION"
+route_id = "102-13157"
+route_long_name = "Metro Local Line"
+route_short_name = "102"
+route_type = "3"

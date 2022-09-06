@@ -1,0 +1,7 @@
+route_color = "000000"
+route_desc = "SYLMAR STA- WEST LA VIA VAN NUYS BL - SEPULVEDA BL"
+route_id = "761-13157"
+route_long_name = "Metro Rapid Line"
+route_short_name = "761"
+route_text_color = "FFFFFF"
+route_type = "3"

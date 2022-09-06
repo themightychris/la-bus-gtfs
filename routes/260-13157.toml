@@ -1,0 +1,5 @@
+route_desc = "ARTESIA STATION-PASADENA VIA ATLANTIC - FAIR OAKS"
+route_id = "260-13157"
+route_long_name = "Metro Local Line"
+route_short_name = "260"
+route_type = "3"

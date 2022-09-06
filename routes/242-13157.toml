@@ -1,0 +1,5 @@
+route_desc = "NORTHRIDGE - TARZANA VIA TAMPA - WINNETKA AVS"
+route_id = "242-13157"
+route_long_name = "Metro Local Line"
+route_short_name = "242/243"
+route_type = "3"

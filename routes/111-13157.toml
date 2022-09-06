@@ -1,0 +1,5 @@
+route_desc = "LAX CITY BUS CTR - NORWALK STA VIA FLORENCE AV"
+route_id = "111-13157"
+route_long_name = "Metro Local Line"
+route_short_name = "111"
+route_type = "3"

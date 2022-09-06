@@ -1,0 +1,5 @@
+route_desc = "WESTLAKE/MCARTHUR PK STA-DTWN LA-CSU DH VIA AVALON"
+route_id = "51-13157"
+route_long_name = "Metro Local Line"
+route_short_name = "51"
+route_type = "3"

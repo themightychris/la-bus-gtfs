@@ -1,0 +1,5 @@
+route_desc = "LAC+USC MED CTR OUT PATIENT SHUTTLE"
+route_id = "605-13157"
+route_long_name = "Metro Local Line"
+route_short_name = "605"
+route_type = "3"

@@ -1,0 +1,5 @@
+route_desc = "PASADENA VIA DEL MAR STA -COLORADO-ALLEN-NEW YORK"
+route_id = "686-13157"
+route_long_name = "Metro Local Line"
+route_short_name = "686"
+route_type = "3"

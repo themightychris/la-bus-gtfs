@@ -1,0 +1,5 @@
+route_desc = "This Express Service operates on the dates of all Dodger home games, departing from the West Portal of Historic Union Station and running directly to Dodger Stadium, beginning 90 minutes before game time and continuing until 45 minutes after the game ends. This is a free service to anyone with a ticket to the game."
+route_id = "DSE-US"
+route_short_name = "Dodger Stadium Express"
+route_type = "3"
+route_url = "http://www.metro.net/riding/dodger-stadium-express/"

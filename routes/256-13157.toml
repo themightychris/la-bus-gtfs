@@ -1,0 +1,5 @@
+route_desc = "CAL STATE LA - SIERRA MADRE VILLA STA"
+route_id = "256-13157"
+route_long_name = "Metro Local Line"
+route_short_name = "256"
+route_type = "3"

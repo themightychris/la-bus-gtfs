@@ -1,0 +1,5 @@
+route_desc = "DEL MAR STATION - ALTADENA - VIA FAIR OAKS SHUTTLE"
+route_id = "660-13157"
+route_long_name = "Metro Local Line"
+route_short_name = "660"
+route_type = "3"

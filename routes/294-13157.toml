@@ -1,0 +1,5 @@
+route_desc = "SYLMAR STA - BURBANK STA - VIA SAN FERNANDO RD"
+route_id = "294-13157"
+route_long_name = "Metro Local Line"
+route_short_name = "294"
+route_type = "3"

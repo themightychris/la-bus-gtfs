@@ -1,0 +1,5 @@
+route_desc = "PASADENA - N. HOLLYWOOD STA VIA 134 FWY"
+route_id = "501-13157"
+route_long_name = "Metro Express Line"
+route_short_name = "501"
+route_type = "3"
