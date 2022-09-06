@@ -1,0 +1,7 @@
+block_id = "1060100"
+direction_id = "1"
+route_id = "106-13157"
+service_id = "JUNE22-D13CAR-1_Weekday"
+shape_id = "1060058_JUNE22"
+trip_id = "10106000580752-JUNE22"
+trip_id_event = "55846077-JUNE22-D13CAR-1_Weekday"

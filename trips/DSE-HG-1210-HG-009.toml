@@ -1,0 +1,6 @@
+direction_id = "1"
+route_id = "DSE-HG"
+service_id = "DSE-HG-1210"
+shape_id = "DSE-HG-HG"
+trip_id = "DSE-HG-1210-HG-009"
+trip_id_event = " "

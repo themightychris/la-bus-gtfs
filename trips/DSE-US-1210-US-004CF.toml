@@ -1,0 +1,5 @@
+direction_id = "1"
+route_id = "DSE-US"
+service_id = "DSE-US-1210"
+shape_id = "DSE-US-US-CF"
+trip_id = "DSE-US-1210-US-004CF"
